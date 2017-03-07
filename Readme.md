@@ -1,3 +1,3 @@
-##Vue-19
-#19 projects in 19 days
+#[Vue-19](http://operationvuejs.org)
+Goal: 19 projects in 19 days
 -Starting engines...
